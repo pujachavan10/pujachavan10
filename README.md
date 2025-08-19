@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 
 - Passionate about **AI, problem-solving, and building intelligent systems**  
-- Currently working on **Machine Learning, Generative AI, and DSA**   
+- Currently working on **Machine Learning, Generative AI, and DSA**      
 
 ## 🛠️ Tech Stack  
 
